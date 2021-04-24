@@ -2,4 +2,6 @@
 2. Edited from github IDE
 3. Added two files to IDEA
 4. Added develop branch
-5. Changes from econd-branch
+5. Changes from first branch
+6. Changes from second-branch
+
